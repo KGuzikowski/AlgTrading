@@ -35,7 +35,7 @@ def prepare_data(ret_val, timeperiods):
             timeperiod=timeperiods["BB"],
             nbdevup=3,
             nbdevdn=2,
-            matype=0,
+            matype=0
         )
     
     #Bollinger bands
